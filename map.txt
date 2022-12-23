@@ -1,0 +1,6 @@
+|||LeaveColumbia|||
+||GunPower|Cali|
+|MissilePower|
+|UsTaskForce|MachineGun|Traitors|
+GranadePower|ColumbianTaskForce|ColumbiaEntryPoint|ShotGumPower|LocalPolice
+||AirStrikePower|OtherCountryEnemies|
